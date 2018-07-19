@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-snippets",
+  "version": "1.0.0",
+  "description": "Node.js snippets that are useful and easily repurposed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csjcode/nodejs-snippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csjcode/nodejs-snippets/issues"
+  },
+  "homepage": "https://github.com/csjcode/nodejs-snippets#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
